@@ -1,6 +1,7 @@
-# infosustentabilidade-digital-grupo-lii
+# 🌱♻️ infosustentabilidade-digital-grupo-lii
 
 <div align="center">
+
 # ♻️ Projeto de Infosustentabilidade: Descarte de Lixo Eletrônico
 
 ## 📚 Sobre o Projeto
