@@ -1,1 +1,98 @@
+1
 
+2
+
+{
+  "projeto": "InfoSustentabilidade Digital",
+  "cidades": [
+    {
+      "cidade_base": "Braço do Trombudo",
+      "pontos_coleta": [
+        {
+          "id_ponto": 3,
+          "nome_local": "Prefeitura de Braço do Trombudo",
+          "endereco": "Praça Independência, 25",
+          "bairro": "Centro",
+          "cidade": "Braço do Trombudo",
+          "contato": "(47)933865851",
+          "materiais_aceitos": [
+            "computadores",
+            "monitores",
+            "periféricos",
+            "lâmpadas",
+            "pilhas",
+            "liquidificadores",
+            "baterias",
+            "micro-ondas"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega no local"
+          },
+          "evidencias": [
+            {
+              "tipo": "site",
+              "arquivo": "https://pld.ima.sc.gov.br/home/filtrar/s3"
+            },
+            {
+              "tipo": "print da ligação",
+              "arquivo": "https://pld.ima.sc.gov.br/home/filtrar/s3"
+            },
+            {
+              "tipo": "print de publicação do instagram",
+              "arquivo": "https://pld.ima.sc.gov.br/home/filtrar/s3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cidade_base": "Agrolândia",
+      "pontos_coleta": [
+        {
+          "id_ponto": 4,
+          "nome_local": "Prefeitura de Agrolândia",
+          "endereco": "R. dos Pioneiros, 109",
+          "bairro": "Centro",
+          "cidade": "Agrolândia",
+          "contato": "(47)3534-4212",
+          "materiais_aceitos": [
+            "computadores",
+            "laptops",
+            "tablets",
+            "monitores",
+            "teclados",
+            "mouses",
+            "cabos",
+            "impressoras",
+            "scanners",
+            "copiadoras",
+            "telefones",
+            "bateria de celular",
+            "carregadores",
+            "eletrodomésticos de pequeno porte",
+            "aparelhos de TV",
+            "rádios",
+            "controle remoto"
+          ],
+          "procedimento": {
+            "precisa_agendamento": false,
+            "possui_custo": false,
+            "modalidade": "entrega no local"
+          },
+          "evidencias": [
+            {
+              "tipo": "print de whatsapp",
+              "arquivo": "https://pld.ima.sc.gov.br/home/filtrar/s3"
+            },
+            {
+              "tipo": "print do site",
+              "arquivo": "https://pld.ima.sc.gov.br/home/filtrar/s3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
