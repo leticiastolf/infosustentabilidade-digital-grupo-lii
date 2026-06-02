@@ -1,6 +1,87 @@
-1
-
-2
+{
+  "projeto": "InfoSustentabilidade Digital",
+  "cidade_base": "Imbuia",
+  "pontos_coleta": [
+    {
+      "id_ponto": 1,
+      "nome_local": "Secretaria de Meio Ambiente",
+      "endereco": "Rodovia SC-281",
+      "bairro": "Samambaia",
+      "cidade": "Imbuia",
+      "contato": "(47) 99646-4017",
+      "materiais_aceitos": [
+        "celulares",
+        "computadores",
+        "cabos",
+        "monitores",
+        "pilhas",
+        "baterias",
+        "placas de raio-X",
+        "tablets",
+        "mouses",
+        "impressoras",
+        "scanners",
+        "TV",
+        "lampada"
+      ],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega no local"
+      },
+      "evidencias": [
+        {
+          "tipo": "Evidência do ponto de coleta e interface do Portal de Turismo de Imbuia",
+          "arquivo": " https://hurt-emerald-apuwjy59.edgeone.app/Captura%20de%20tela%202026-06-02%20200334.png  "
+        },
+        {
+          "tipo": "Vista aérea e localização geográfica do Parque de Exposições Prefeito João Schwambach via Google Maps",
+          "arquivo": "https://intensive-coral-hzvxycp7.edgeone.app/Captura%20de%20tela%202026-05-15%20202109.png"
+        },
+        {
+          "tipo": "Evidência do contato com a prefeitura sobre as diretrizes municipais de descarte",
+          "arquivo": "https://round-turquoise-m5ooubkh.edgeone.app/Captura%20de%20tela%202026-05-15%20201754.png"
+        }
+      ]
+    },
+    {
+      "id_ponto": 2,
+      "nome_local": "Parque Ecológico Ingo Altemburg",
+      "endereco": "Rua Henrique Vagner",
+      "bairro": "Centro",
+      "cidade": "Ituporanga",
+      "contato": "(47) 99780-0402",
+      "materiais_aceitos": [
+        "computador",
+        "TV",
+        "lâmpadas",
+        "secador de cabelo",
+        "pilhas",
+        "baterias de aparelhos",
+        "fritadeiras",
+        "lanternas",
+        "celulares",
+        "panelas elétricas",
+        "smartphones",
+        "rádios",
+        "laptop"
+      ],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega no local"
+      },
+      "evidencias": [
+        {
+          "tipo": "Evidência do Portal de Turismo de Ituporanga (local da coleta)",
+          "arquivo": "https://kommodo.ai/i/og8LpktsJF7weYhPniyX"
+        },
+        {
+          "tipo": "Evidência do portal da Prefeitura de Ituporanga com orientações sobre o descarte correto de resíduos eletrônicos",
+          "arquivo": "https://kommodo.ai/i/WUvbjI8wMgbRu6uOBceV"
+        }
+      ]
+    },
 
 {
   "projeto": "InfoSustentabilidade Digital",
