@@ -96,3 +96,80 @@
     }
   ]
 }
+
+{
+  "projeto": "InfoSustentabilidade Digital",
+  "cidade_base": "Aurora",
+  "pontos_coleta": [
+    {
+      "id_ponto": 5,
+      "nome_local": "E.E.B Walter Probst.",
+      "endereco": "Rua XV de Novembro",
+      "bairro": "Centro",
+      "cidade": "Aurora",
+      "contato": "(47) 3533-8799",
+      "materiais_aceitos": [
+        "lâmpadas",
+        "pilhas",
+        "celulares",
+        "computadores",
+        "cabos",
+        "periféricos",
+        "laptops",
+        "tablets",
+        " TV",
+        "aparelhos de som"
+      ],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega no local"
+      },
+      "evidencias": [
+        {
+          "tipo": "fotos dos pontos de coleta",
+          "arquivo": "https://ibb.co/5W5TJYnc"
+        },
+        {
+          "tipo": "fotos dos pontos de coleta",
+          "arquivo": "https://ibb.co/dwJ1ntks"
+        }
+      ]
+    },
+    {
+      "id_ponto": 6,
+      "nome_local": "Centro Educacional Ana Galvan",
+      "endereco": "Rodovia SC-350",
+      "bairro": "Santa Teresa",
+      "cidade": "Aurora",
+      "contato": "(47) 3530-0971",
+      "materiais_aceitos": [
+        "lâmpadas",
+        "pilhas",
+        "celulares",
+        "computadores",
+        "cabos",
+        "periféricos",
+        "laptops",
+        "tablets",
+        " TV",
+        "aparelhos de som"
+      ],
+      "procedimento": {
+        "precisa_agendamento": false,
+        "possui_custo": false,
+        "modalidade": "entrega no local"
+      },
+      "evidencias": [
+        {
+          "tipo": "fotos dos pontos de coleta",
+          "arquivo": "https://ibb.co/C5wBRYYs"
+        },
+        {
+          "tipo": "fotos dos pontos de coleta",
+          "arquivo": "https://ibb.co/7d92NGsx"
+        }
+      ]
+    }
+  ]
+}
