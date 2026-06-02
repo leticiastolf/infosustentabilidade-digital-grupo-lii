@@ -117,7 +117,7 @@
         "periféricos",
         "laptops",
         "tablets",
-        " TV",
+        "TV",
         "aparelhos de som"
       ],
       "procedimento": {
@@ -152,7 +152,7 @@
         "periféricos",
         "laptops",
         "tablets",
-        " TV",
+        "TV",
         "aparelhos de som"
       ],
       "procedimento": {
@@ -168,7 +168,12 @@
         {
           "tipo": "fotos dos pontos de coleta",
           "arquivo": "https://ibb.co/7d92NGsx"
+        },
+        
+        {"tipo": "evidência da conversa",
+          "arquivo": "https://ibb.co/yBkRwgtx"
         }
+        
       ]
     }
   ]
