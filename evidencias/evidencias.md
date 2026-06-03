@@ -120,4 +120,4 @@
 - **Executada:** Sim / Não
 - **Dificuldades:** _(descrever dificuldades encontradas)_
 - **Aprendizados do grupo:** _(descrever aprendizados)_
-<img width="1600" height="900" alt="foto local de descarte de lixo eletronico na imbuia" src="https://github.com/user-attachments/assets/1a5dee2b-61c3-4bf2-8827-5c4aae7b30aa" />
+
