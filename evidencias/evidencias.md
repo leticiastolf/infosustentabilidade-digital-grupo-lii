@@ -15,6 +15,7 @@
 | **Arquivo 2** | Foto — Vista aérea e localização geográfica do Parque via Google Maps |
 | **Arquivo 3** | Foto — Evidência do contato com a prefeitura sobre as diretrizes municipais de descarte |
 
+
 ---
 
 ### ID 2 — Ituporanga
@@ -97,18 +98,20 @@
 
 | Integrante | Arquivo Editado |
 |---|---|
-| _(nome)_ | _(arquivo)_ |
-| _(nome)_ | _(arquivo)_ |
-| _(nome)_ | _(arquivo)_ |
+| _isadora finardi_ | _docs; evidencias_ |
+| _isadora sehnem_ | _pontos-coleta; evidencias_ |
+| _leticia stolf_ | _readmy; sql_ |
 
 ---
 
 ## Evidências do Supabase
 
-- **Nome do projeto:** _(inserir nome do projeto)_
+- **Nome do projeto:** _(infosustentabilidade-digital-grupo-lii)_
 - **Tabelas criadas:**
   - _(nome da tabela 1)_
   - _(nome da tabela 2)_
+  - _(nome da tabela 3)_
+  - _(nome da tabela 4)_
 
 ---
 
@@ -117,3 +120,4 @@
 - **Executada:** Sim / Não
 - **Dificuldades:** _(descrever dificuldades encontradas)_
 - **Aprendizados do grupo:** _(descrever aprendizados)_
+<img width="1600" height="900" alt="foto local de descarte de lixo eletronico na imbuia" src="https://github.com/user-attachments/assets/1a5dee2b-61c3-4bf2-8827-5c4aae7b30aa" />
