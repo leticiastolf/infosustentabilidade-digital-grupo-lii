@@ -1,3 +1,4 @@
+<div align="center">
 ## Script consulta SQL no supabase:
 
 SELECT
