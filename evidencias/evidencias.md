@@ -83,7 +83,7 @@
 
 ## Evidências da Planilha
 
-- **Link do Google Sheets:** _(inserir link aqui)_
+- **Link do Google Sheets:** _([inserir link aqui](https://docs.google.com/spreadsheets/d/1EdJc9CnLe9yS3SXfyfAWvmZ-40I3-O3elDgi-OZ8Mzc/edit?gid=0#gid=0))_
 - **Abas criadas:**
   - Aba `ID 1` — Imbuia
   - Aba `ID 2` — Ituporanga
@@ -98,9 +98,9 @@
 
 | Integrante | Arquivo Editado |
 |---|---|
-| _isadora finardi_ | _docs; evidencias_ |
-| _isadora sehnem_ | _pontos-coleta; evidencias_ |
-| _leticia stolf_ | _readmy; sql_ |
+| _Isadora Finardi_ | _docs; evidencias_ |
+| _Isadora Sehnem_ | _pontos-coleta; evidencias_ |
+| _Leticia Stolf_ | _readme; sql_ |
 
 ---
 
@@ -108,16 +108,16 @@
 
 - **Nome do projeto:** _(infosustentabilidade-digital-grupo-lii)_
 - **Tabelas criadas:**
-  - _(nome da tabela 1)_
-  - _(nome da tabela 2)_
-  - _(nome da tabela 3)_
-  - _(nome da tabela 4)_
+  - _(evidências)_
+  - _(materiais aceitos)_
+  - _(pontos_coleta)_
+  - _(procedimento_descarte)_
 
 ---
 
 ## Consulta SQL Executada?
 
-- **Executada:** Sim / Não
+- **Executada:** Sim 
 - **Dificuldades:** _(descrever dificuldades encontradas)_
 - **Aprendizados do grupo:** _(descrever aprendizados)_
 
