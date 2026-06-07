@@ -83,7 +83,7 @@
 
 ## Evidências da Planilha
 
-- **Link do Google Sheets:** _([inserir link aqui](https://docs.google.com/spreadsheets/d/1EdJc9CnLe9yS3SXfyfAWvmZ-40I3-O3elDgi-OZ8Mzc/edit?gid=0#gid=0))_
+- **Link do Google Sheets:** _([link da planilha google sheets](https://docs.google.com/spreadsheets/d/1EdJc9CnLe9yS3SXfyfAWvmZ-40I3-O3elDgi-OZ8Mzc/edit?gid=0#gid=0))_
 - **Abas criadas:**
   - Aba `ID 1` — Imbuia
   - Aba `ID 2` — Ituporanga
