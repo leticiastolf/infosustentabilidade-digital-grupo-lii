@@ -8,8 +8,8 @@
 
 | Campo | Informação |
 |---|---|
-| **Nome** | Parque de Exposições Prefeito João Schwambach |
-| **Endereço** | Imbuia, SC |
+| **Nome** | Secretaria de Meio Ambiente |
+| **Endereço** | Rodovia SC-281, Imbuia, SC |
 | **Tipo** | Ponto de coleta de resíduos eletrônicos |
 | **Arquivo 1** | Foto — Evidência do ponto de coleta e interface do Portal de Turismo de Imbuia |
 | **Arquivo 2** | Foto — Vista aérea e localização geográfica do Parque via Google Maps |
@@ -22,8 +22,8 @@
 
 | Campo | Informação |
 |---|---|
-| **Nome** | Parque Ecológico (local da coleta) |
-| **Endereço** | Ituporanga, SC |
+| **Nome** | Parque Ecológico Ingo Altemburg |
+| **Endereço** | Rua Henrique Vagner Ituporanga, SC |
 | **Tipo** | Ponto de coleta de resíduos eletrônicos |
 | **Arquivo 1** | Foto — Evidência do portal de Turismo de Ituporanga (local da coleta) |
 | **Arquivo 2** | Foto — Evidência do portal da Prefeitura de Ituporanga com orientações sobre o descarte correto de resíduos eletrônicos |
@@ -35,7 +35,7 @@
 | Campo | Informação |
 |---|---|
 | **Nome** | Prefeitura de Braço do Trombudo — Departamento do Meio Ambiente |
-| **Endereço** | Braço do Trombudo, SC |
+| **Endereço** | Praça Independência, 25, Braço do Trombudo, SC |
 | **Tipo** | Participante do projeto PLD (IMA) |
 | **Arquivo 1** | Site — Evidências da participação no projeto PLD (IMA): https://pld.ima.sc.gov.br/home/filtrar/s3 |
 | **Arquivo 2** | Ligação (print) — Contato realizado na terça-feira (05/05/2026) com Mara Eliza Schaade, responsável pelo Departamento do Meio Ambiente |
@@ -47,8 +47,8 @@
 
 | Campo | Informação |
 |---|---|
-| **Nome** | Márcio Maculan Salin — Engenheiro Florestal |
-| **Endereço** | Agrolândia, SC |
+| **Nome** | Prefeitura de Agrolândia |
+| **Endereço** | R. dos Pioneiros, 109, Agrolândia, SC |
 | **Tipo** | Participante do projeto PLD |
 | **Arquivo 1** | Print WhatsApp — Contato com Márcio Maculan Salin, Engenheiro Florestal de Agrolândia |
 | **Arquivo 2** | Foto/Site — Evidências da participação da cidade de Agrolândia no projeto PLD |
@@ -59,8 +59,8 @@
 
 | Campo | Informação |
 |---|---|
-| **Nome** | Escola de Ensino Básico Walter Probst |
-| **Endereço** | (a preencher), SC |
+| **Nome** | Escola de Ensino Básico Walter Probst | 
+| **Endereço** | Rua XV de Novembro, Aurora, SC |
 | **Tipo** | Ponto de coleta de resíduos eletrônicos |
 | **Arquivo 1** | Foto — Evidência do contato |
 | **Arquivo 2** | Foto — Ponto de coleta na escola (imagem 1) |
@@ -73,7 +73,7 @@
 | Campo | Informação |
 |---|---|
 | **Nome** | Centro Educacional Ana Galvan |
-| **Endereço** | (a preencher), SC |
+| **Endereço** | Rodovia SC-350, Aurora, SC |
 | **Tipo** | Ponto de coleta de resíduos eletrônicos |
 | **Arquivo 1** | Foto — Ponto de coleta no Centro Educacional Ana Galvan (imagem 1) |
 | **Arquivo 2** | Foto — Ponto de coleta no Centro Educacional Ana Galvan (imagem 2) |
@@ -85,12 +85,11 @@
 
 - **Link do Google Sheets:** _([link da planilha google sheets](https://docs.google.com/spreadsheets/d/1EdJc9CnLe9yS3SXfyfAWvmZ-40I3-O3elDgi-OZ8Mzc/edit?gid=0#gid=0))_
 - **Abas criadas:**
-  - Aba `ID 1` — Imbuia
-  - Aba `ID 2` — Ituporanga
-  - Aba `ID 3` — Braço do Trombudo
-  - Aba `ID 4` — Agrolândia
-  - Aba `ID 5` — E.E.B. Walter Probst
-  - Aba `ID 6` — C.E. Ana Galvan
+  - Aba - pontos_coleta
+  - Aba - materiais_aceitos
+  - Aba - procedimento_descarte
+  - Aba - evidencias
+  - Aba - analise_critica
 
 ---
 
@@ -98,9 +97,9 @@
 
 | Integrante | Arquivo Editado |
 |---|---|
-| _Isadora Finardi_ | _docs; evidencias_ |
-| _Isadora Sehnem_ | _pontos-coleta; evidencias_ |
-| _Leticia Stolf_ | _readme; sql_ |
+| _Isadora Finardi_ | docs; evidencias |
+| _Isadora Sehnem_ | pontos-coleta; evidencias |
+| _Leticia Stolf_ | readme; sql |
 
 ---
 
@@ -118,6 +117,5 @@
 ## Consulta SQL Executada?
 
 - **Executada:** Sim 
-- **Dificuldades:** _(descrever dificuldades encontradas)_
-- **Aprendizados do grupo:** _(descrever aprendizados)_
-
+- **Dificuldades:** Foram encontradas dificuldades ao realizar consultas SQL no Supabase, principalmente na compreensão da sintaxe dos comandos, na criação de relacionamentos entre tabelas e na identificação de erros nas consultas.
+- **Aprendizados do grupo:** A utilizar o SQL Editor, criar e consultar tabelas, aplicar filtros e compreender melhor a estrutura de bancos de dados relacionais, desenvolvendo habilidades práticas importantes para o gerenciamento de dados.
