@@ -1,5 +1,5 @@
 <div align="center">
-## Script consulta SQL no supabase:
+## Script da consulta SQL no supabase:
 
 SELECT
     pc.nome_local,
